@@ -11,7 +11,7 @@ The unemployment rate is crucial for assessing the economic health of a country,
 - Find possible causes of unemployment.
 
 ## Data Source
-- The datasets used for this analysis is sourced from (EPEN)[https://www.gob.pe/institucion/inei/informes-publicaciones/3880733-encuesta-permanente-de-empleo-nacional-epen-2024] datasets and (BCRP)[https://estadisticas.bcrp.gob.pe/estadisticas/series/buscador], covering the years 2000-2024.
+- The datasets used for this analysis is sourced from [EPEN](https://www.gob.pe/institucion/inei/informes-publicaciones/3880733-encuesta-permanente-de-empleo-nacional-epen-2024) datasets and [BCRP](https://estadisticas.bcrp.gob.pe/estadisticas/series/buscador), covering the years 2000-2024.
 
 ## Methodology
 - Exploratory Data Analysis (EDA) to uncover trends and patterns in the unemployment data.
